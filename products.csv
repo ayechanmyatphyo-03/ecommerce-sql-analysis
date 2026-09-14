@@ -1,0 +1,17 @@
+product_id,product_name,category,base_price
+PROD-001,Laptop,Technology,950
+PROD-002,Monitor,Technology,280
+PROD-003,Keyboard,Technology,75
+PROD-004,Mouse,Technology,40
+PROD-005,Webcam,Technology,110
+PROD-006,Headset,Technology,95
+PROD-007,Standing Desk,Furniture,520
+PROD-008,Office Chair,Furniture,240
+PROD-009,Bookshelf,Furniture,180
+PROD-010,Laptop Stand,Accessories,45
+PROD-011,Backpack,Accessories,85
+PROD-012,USB-C Hub,Accessories,65
+PROD-013,Power Bank,Accessories,55
+PROD-014,Phone Charger,Accessories,30
+PROD-015,Printer Paper,Office Supplies,18
+PROD-016,File Folder Pack,Office Supplies,22
